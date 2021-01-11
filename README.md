@@ -12,5 +12,3 @@
 bot.py - Сам скрипт бота  
 db.py - Импортируемый скрипт работы с базой данных  
 users.db - База данных  
-  
-https://img.shields.io/static/v1?label=UBD&message=GGGG&color=green
