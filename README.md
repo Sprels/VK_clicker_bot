@@ -8,7 +8,9 @@
 4. Топ игроков - выводит топ игроков по кликам  
 -. Любая неизвестная команда - выведет ошибку и переотправит клавиатуру.  
 
-Файлы:  https://shields.io/badge/-yellowgreen-yellowgreen
+Файлы:  
 bot.py - Сам скрипт бота  
 db.py - Импортируемый скрипт работы с базой данных  
-users.db - База данных
+users.db - База данных  
+  
+https://img.shields.io/static/v1?label=UBD&message=GGGG&color=green
