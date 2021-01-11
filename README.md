@@ -15,4 +15,7 @@ users.db - База данных
   
   
   
-<img src = "https://skrinshoter.ru/p/110121/golysb.png?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2011-01-2021%2020:34:50.png" alt = "Принцип работы">
+<img class = "image" src = "https://skrinshoter.ru/p/110121/golysb.png?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2011-01-2021%2020:34:50.png" alt = "Принцип работы">
+<style>
+.image {border: 3px solid red}
+</style>
